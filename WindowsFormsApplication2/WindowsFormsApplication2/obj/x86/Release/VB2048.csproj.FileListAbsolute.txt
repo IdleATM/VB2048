@@ -1,0 +1,16 @@
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.csproj.GenerateResource.Cache
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb
+C:\Users\IdleATM\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.csprojResolveAssemblyReference.cache
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.csprojResolveAssemblyReference.cache
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.csproj.GenerateResource.Cache
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\VB2048.exe
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\VB2048.pdb
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.Properties.Resources.resources
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.exe
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.pdb
+C:\Users\Idle\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\VB2048.MainCode.resources
